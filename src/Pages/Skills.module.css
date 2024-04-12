@@ -1,0 +1,12 @@
+.language{
+    display: flex;
+    justify-content: space-evenly;
+}
+.domain{
+    display: flex;
+    justify-content: space-around;
+}
+.other{
+    display: flex;
+    justify-content: space-around;
+}

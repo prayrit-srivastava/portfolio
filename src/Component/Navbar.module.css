@@ -1,0 +1,18 @@
+.navbar{
+    background-color: rgb(122, 127, 127);
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 9vh;
+    min-height: 30px;
+}
+.references a{
+    text-decoration: none;
+    color: black;
+    margin-right: 15%;
+}
+.references{
+    display: flex;
+    justify-content: space-around;
+}

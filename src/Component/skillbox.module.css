@@ -1,0 +1,25 @@
+.beginner{
+    border:1px solid rgb(251, 62, 62);
+    background-color: rgb(251, 62, 62);
+    padding:4px;
+    width:7vw;
+    color: white;
+}
+.intermediate{
+    border:1px solid rgb(246, 7, 7);
+    background-color: rgb(246, 7, 7);
+    padding:4px;
+    width:7vw;
+    color: white;
+}
+.proficient{
+    border:1px solid rgb(188, 4, 4);
+    background-color: rgb(188, 4, 4);
+    padding:4px;
+    width:7vw;
+    color: white;
+}
+
+.proficient div{
+    margin-left: 100px;
+}
